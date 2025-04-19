@@ -1,4 +1,5 @@
 ﻿### Hi Developers 👋
+ [![Linkedin Badge](https://img.shields.io/badge/-NamanJain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-singh-tomar-238264255/)](https://www.linkedin.com/in/ayush-singh-tomar-238264255/)
 
 I’m a Frontend Developer with a deep appreciation for the synergy between design and development. My journey into web development has been driven by a strong interest in crafting intuitive, engaging, and responsive user interfaces that not only look great but also deliver exceptional user experiences.
 
