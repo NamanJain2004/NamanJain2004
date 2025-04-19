@@ -1,8 +1,5 @@
 ﻿### Hi Developers 👋
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-singh-tomar-238264255/)](https://www.linkedin.com/in/ayush-singh-tomar-238264255/)
-
 I’m a Frontend Developer with a deep appreciation for the synergy between design and development. My journey into web development has been driven by a strong interest in crafting intuitive, engaging, and responsive user interfaces that not only look great but also deliver exceptional user experiences.
 
 My core technical skill set includes HTML, CSS, Tailwind, JavaScript, ReactJS, GSAP, Locomotives  and Redux, allowing me to build modern, scalable, and maintainable frontend applications. I’m equally comfortable working with design tools like Figma and Canva, and I pay close attention to UI/UX principles to ensure my interfaces are both visually appealing and user-centered.In addition i've also done sql for good understanding of DBMS.
